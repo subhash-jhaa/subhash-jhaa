@@ -9,7 +9,7 @@
 
 <!-- </div> -->
 <!-- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=28&pause=1000&color=FFDE21&center=false&vCenter=true&repeat=false&width=500&lines=Technologies+I+am+into" alt="Tech Stack" />-->
-## Technologies I am into
+## Technologies I am into:
   <div class="tech-badges">
                 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
                 <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js" />
