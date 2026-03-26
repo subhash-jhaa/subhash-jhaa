@@ -2,10 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=00D9FF&center=false&vCenter=true&width=700&lines=hey+I'm+Subhash+Jha;Learning+Full+Stack+Engineering;Building.+Breaking.+Learning.+Repeating.)](https://git.io/typing-svg)
 
+## About:
+Full Stack Developer who loves JavaScript — building fast, scalable web apps
+from frontend to backend. I enjoy turning complex problems into clean,
+user-friendly products.
+Currently exploring AI integrations, real-time systems, and modern web architecture.
+Open to collaborating on interesting projects.
+
 ## Socials:
 [![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/subhash_jh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhashdev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhashjhastm01@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6B46C1?style=for-the-badge&logo=firefox&logoColor=white)](https://subhashjha.me)
+
 
 <!-- </div> -->
 <!-- <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=28&pause=1000&color=FFDE21&center=false&vCenter=true&repeat=false&width=500&lines=Technologies+I+am+into" alt="Tech Stack" />-->
@@ -13,6 +22,7 @@
   <div class="tech-badges">
                 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
                 <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js" />
+                <img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
                 <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
                 <img src="https://img.shields.io/badge/TAILWIND_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
                 <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
