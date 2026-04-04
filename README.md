@@ -7,7 +7,8 @@ Full Stack Developer who loves JavaScript — building fast, scalable web apps
 from frontend to backend. I enjoy turning complex problems into clean,
 user-friendly products.
 Currently exploring AI integrations, real-time systems, and modern web architecture.
-Open to collaborating on interesting projects.
+Open to collaborating on interesting projects.<br>
+Check out my [portfolio](https://subhashjha.me).
 
 ## Socials:
 [![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/subhash_jh)
